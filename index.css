@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('https://img.freepik.com/free-photo/pencil-pen-notebooks-near-keyboard-eyeglasses-cup_23-2148037040.jpg?semt=ais_hybrid');
+    background-size: cover;
+}
+
+.container {
+    background: url('https://w0.peakpx.com/wallpaper/127/305/HD-wallpaper-white-flowers-branches-in-white-background-white-aesthetic.jpg');
+    background-size: cover;
+    padding: 100px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    width: 600px;
+    text-align: center;
+    margin: 100px;
+}
+
+h2 {
+    margin-bottom: 15px;
+    font-size: 35px;;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #a87e99;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(58, 78, 137);
+    border: none;
+    color: rgb(212, 188, 175);
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0a541a;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+a {
+    color: rgb(62, 15, 71);
+    cursor: pointer;
+}
+
+
